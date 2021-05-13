@@ -1,2 +1,5 @@
-list_name = ['Dennis', 'LC', 'Jed']
+list_names = ['Dennis', 'LC', 'Jed']
 list_brands = ['Toyota', 'Honda', 'Hyundai']
+
+print(list_names)
+print(list_brands)
